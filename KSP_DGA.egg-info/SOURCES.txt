@@ -1,0 +1,9 @@
+README.md
+setup.py
+DGA/__init__.py
+DGA/basic_fits_handling.py
+KSP_DGA.egg-info/PKG-INFO
+KSP_DGA.egg-info/SOURCES.txt
+KSP_DGA.egg-info/dependency_links.txt
+KSP_DGA.egg-info/top_level.txt
+tests/test_1.py
